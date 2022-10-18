@@ -5,6 +5,7 @@ Vest Fianance Automation Project
 This project used to login into the application, explore stocks, and verify the user is able to sort the list and add a stock to the watchlist.
 Created the maven project and used Page Object Model to create the framework and run the test script through TestNg.
 Created the TestCasePage.java for Page class and TestCaseTest.java for Test Class.
+In TestCasePage.java, created all the methods for the steps to perform the test and called the page class methods in test class.
 
 
 #Dependencies
@@ -15,3 +16,4 @@ b)Used chromedriver for running the project in Chrome browser. I have downloaded
 #Steps to run the project
 a)After pulling the project from GITHUB, Please download the chromedriver.exe according to your chrome browser and change the path in the code(TestCaseTest.java) accordingly.
 b)Right click on the testng.xml -> Select Run as -> Select TestNg Suite.
+
