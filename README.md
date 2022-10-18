@@ -13,5 +13,5 @@ b)Used chromedriver for running the project in Chrome browser. I have downloaded
 (Note-Please download the chromedriver.exe according to your chrome browser and change the path in the code accordingly.)
 
 #Steps to run the project
-After pulling the project from GITHUB, Please download the chromedriver.exe according to your chrome browser and change the path in the code(TestCaseTest.java) accordingly.
-Right click on the testng.xml -> Select Run as -> Select TestNg Suite.
+a)After pulling the project from GITHUB, Please download the chromedriver.exe according to your chrome browser and change the path in the code(TestCaseTest.java) accordingly.
+b)Right click on the testng.xml -> Select Run as -> Select TestNg Suite.
