@@ -61,4 +61,9 @@ public class TestCaseTest {
 		 obj_TestCasePage.clickWatchlist();
 		 obj_TestCasePage.countWatchlist();
 	 }
+	@AfterTest 
+	  public void closeBrowser()
+	  {
+		  driver.close();
+	  }
 }
