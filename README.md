@@ -16,4 +16,5 @@ b)Used chromedriver for running the project in Chrome browser. I have downloaded
 #Steps to run the project
 a)After pulling the project from GITHUB, Please download the chromedriver.exe according to your chrome browser and change the path in the code(TestCaseTest.java) accordingly.
 b)Right click on the testng.xml -> Select Run as -> Select TestNg Suite.
+c)When test suite complete, check the report in test-output folder with name as emailable-report.html
 
